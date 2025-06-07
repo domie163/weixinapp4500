@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#EF96C5",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "供应商信息添加/修改",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

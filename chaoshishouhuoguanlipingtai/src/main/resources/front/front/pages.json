@@ -1,0 +1,343 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#EF96C5",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的购物车"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加/修改"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/gonggao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告展示"
+		}
+	},{
+		"path": "pages/gonggao/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告"
+		}
+	},{
+		"path": "pages/gonggao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告添加/修改"
+		}
+	},{
+		"path": "pages/gonggao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告详情"
+		}
+	}
+	,{
+		"path": "pages/gongyingshang/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "供应商信息展示"
+		}
+	},{
+		"path": "pages/gongyingshang/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的供应商信息"
+		}
+	},{
+		"path": "pages/gongyingshang/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "供应商信息添加/修改"
+		}
+	},{
+		"path": "pages/gongyingshang/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "供应商信息详情"
+		}
+	}
+	,{
+		"path": "pages/huiyuan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "会员展示"
+		}
+	},{
+		"path": "pages/huiyuan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的会员"
+		}
+	},{
+		"path": "pages/huiyuan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "会员添加/修改"
+		}
+	},{
+		"path": "pages/huiyuan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "会员详情"
+		}
+	}
+	,{
+		"path": "pages/shangpin/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品展示"
+		}
+	},{
+		"path": "pages/shangpin/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品"
+		}
+	},{
+		"path": "pages/shangpin/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品添加/修改"
+		}
+	},{
+		"path": "pages/shangpin/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinChuruInout/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库展示"
+		}
+	},{
+		"path": "pages/shangpinChuruInout/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的出入库"
+		}
+	},{
+		"path": "pages/shangpinChuruInout/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库添加/修改"
+		}
+	},{
+		"path": "pages/shangpinChuruInout/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinChuruInoutList/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情展示"
+		}
+	},{
+		"path": "pages/shangpinChuruInoutList/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的出入库详情"
+		}
+	},{
+		"path": "pages/shangpinChuruInoutList/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情添加/修改"
+		}
+	},{
+		"path": "pages/shangpinChuruInoutList/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "出入库详情详情"
+		}
+	}
+	,{
+		"path": "pages/shangpinOrder/list",
+		"style": {
+			"navigationBarTitleText": "商品订单"
+		}
+	},{
+		"path": "pages/shangpinOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#EF96C5",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "超市售货管理平台首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "超市售货管理平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#95d3d9",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/gonggao/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "公告"
+			}
+			,{
+				"pagePath": "pages/shangpin/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商品"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
